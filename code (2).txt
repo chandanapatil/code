@@ -1,0 +1,6 @@
+import * as React from 'react';
+export const Logo:React.FunctionComponent=()=>{
+return(
+<img src={'./Logo.png'} alt=""/>
+);
+}
